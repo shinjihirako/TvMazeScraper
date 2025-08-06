@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TvMazeScraper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8971399ac813042376a31c5c769d319db1e76691")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+012d9e617317075463f2f17b1ccdab1076d80538")]
 [assembly: System.Reflection.AssemblyProductAttribute("TvMazeScraper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TvMazeScraper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

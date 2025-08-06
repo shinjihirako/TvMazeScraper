@@ -6,7 +6,7 @@ namespace TvMazeScraper.Domain.Entities
     {
         public int ExternalShowId { get; set; }  
         public required string Name { get; set; }
-        public DateTime? Premiered { get; set; }
+        public DateOnly? Premiered { get; set; }
         public ICollection<CastMember> CastMembers { get; set; } = new List<CastMember>();
     }
 }
