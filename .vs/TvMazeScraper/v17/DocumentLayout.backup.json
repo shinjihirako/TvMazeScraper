@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\TvMazeScraper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A70463B-1D92-2131-9071-62DB92819247}|Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj|c:\\projects\\tvmazescraper\\core\\tvmazescraper.application\\profiles\\tvmazemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A70463B-1D92-2131-9071-62DB92819247}|Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj|solutionrelative:core\\tvmazescraper.application\\profiles\\tvmazemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2176E7-D8D9-E5D8-645F-395CD3037CE4}|API\\TvMazeScraper.csproj|c:\\projects\\tvmazescraper\\api\\startupextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2176E7-D8D9-E5D8-645F-395CD3037CE4}|API\\TvMazeScraper.csproj|solutionrelative:api\\startupextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A70463B-1D92-2131-9071-62DB92819247}|Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj|c:\\projects\\tvmazescraper\\core\\tvmazescraper.application\\profiles\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A70463B-1D92-2131-9071-62DB92819247}|Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj|solutionrelative:core\\tvmazescraper.application\\profiles\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A70463B-1D92-2131-9071-62DB92819247}|Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj|c:\\projects\\tvmazescraper\\core\\tvmazescraper.application\\dto\\showdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A70463B-1D92-2131-9071-62DB92819247}|Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj|solutionrelative:core\\tvmazescraper.application\\dto\\showdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A70463B-1D92-2131-9071-62DB92819247}|Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj|c:\\projects\\tvmazescraper\\core\\tvmazescraper.application\\tvmazedataingestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A70463B-1D92-2131-9071-62DB92819247}|Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj|solutionrelative:core\\tvmazescraper.application\\tvmazedataingestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6272B3-D2A0-4B4A-A623-F14179427FAB}|Infrastructure\\TvMazeScraper.ApiClients\\TvMazeScraper.ApiClients.csproj|c:\\projects\\tvmazescraper\\infrastructure\\tvmazescraper.apiclients\\tvmazeapiclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6272B3-D2A0-4B4A-A623-F14179427FAB}|Infrastructure\\TvMazeScraper.ApiClients\\TvMazeScraper.ApiClients.csproj|solutionrelative:infrastructure\\tvmazescraper.apiclients\\tvmazeapiclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A70463B-1D92-2131-9071-62DB92819247}|Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj|c:\\projects\\tvmazescraper\\core\\tvmazescraper.application\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A70463B-1D92-2131-9071-62DB92819247}|Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj|solutionrelative:core\\tvmazescraper.application\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2176E7-D8D9-E5D8-645F-395CD3037CE4}|API\\TvMazeScraper.csproj|c:\\projects\\tvmazescraper\\api\\controllers\\tvmazescrapercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2176E7-D8D9-E5D8-645F-395CD3037CE4}|API\\TvMazeScraper.csproj|solutionrelative:api\\controllers\\tvmazescrapercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2176E7-D8D9-E5D8-645F-395CD3037CE4}|API\\TvMazeScraper.csproj|c:\\projects\\tvmazescraper\\api\\controllers\\showscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2176E7-D8D9-E5D8-645F-395CD3037CE4}|API\\TvMazeScraper.csproj|solutionrelative:api\\controllers\\showscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A70463B-1D92-2131-9071-62DB92819247}|Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj|c:\\projects\\tvmazescraper\\core\\tvmazescraper.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A70463B-1D92-2131-9071-62DB92819247}|Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj|solutionrelative:core\\tvmazescraper.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2176E7-D8D9-E5D8-645F-395CD3037CE4}|API\\TvMazeScraper.csproj|c:\\projects\\tvmazescraper\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2176E7-D8D9-E5D8-645F-395CD3037CE4}|API\\TvMazeScraper.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6272B3-D2A0-4B4A-A623-F14179427FAB}|Infrastructure\\TvMazeScraper.ApiClients\\TvMazeScraper.ApiClients.csproj|c:\\projects\\tvmazescraper\\infrastructure\\tvmazescraper.apiclients\\apiserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6272B3-D2A0-4B4A-A623-F14179427FAB}|Infrastructure\\TvMazeScraper.ApiClients\\TvMazeScraper.ApiClients.csproj|solutionrelative:infrastructure\\tvmazescraper.apiclients\\apiserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA47313-6EEE-412D-A76C-822B4066352D}|Infrastructure\\TvMazeScraper.Persistence\\TvMazeScraper.Persistence.csproj|c:\\projects\\tvmazescraper\\infrastructure\\tvmazescraper.persistence\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA47313-6EEE-412D-A76C-822B4066352D}|Infrastructure\\TvMazeScraper.Persistence\\TvMazeScraper.Persistence.csproj|solutionrelative:infrastructure\\tvmazescraper.persistence\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA47313-6EEE-412D-A76C-822B4066352D}|Infrastructure\\TvMazeScraper.Persistence\\TvMazeScraper.Persistence.csproj|c:\\projects\\tvmazescraper\\infrastructure\\tvmazescraper.persistence\\repositories\\showrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA47313-6EEE-412D-A76C-822B4066352D}|Infrastructure\\TvMazeScraper.Persistence\\TvMazeScraper.Persistence.csproj|solutionrelative:infrastructure\\tvmazescraper.persistence\\repositories\\showrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A70463B-1D92-2131-9071-62DB92819247}|Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj|c:\\projects\\tvmazescraper\\core\\tvmazescraper.application\\dto\\castdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A70463B-1D92-2131-9071-62DB92819247}|Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj|solutionrelative:core\\tvmazescraper.application\\dto\\castdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A70463B-1D92-2131-9071-62DB92819247}|Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj|c:\\projects\\tvmazescraper\\core\\tvmazescraper.application\\dto\\castwrapperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A70463B-1D92-2131-9071-62DB92819247}|Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj|solutionrelative:core\\tvmazescraper.application\\dto\\castwrapperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 3109,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartupExtentions.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\API\\StartupExtentions.cs",
+              "RelativeDocumentMoniker": "API\\StartupExtentions.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\API\\StartupExtentions.cs",
+              "RelativeToolTip": "API\\StartupExtentions.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:10:50.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\Profiles\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "Core\\TvMazeScraper.Application\\Profiles\\MapperConfig.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\Profiles\\MapperConfig.cs",
+              "RelativeToolTip": "Core\\TvMazeScraper.Application\\Profiles\\MapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:45:50.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TvMazeMappingProfile.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\Profiles\\TvMazeMappingProfile.cs",
+              "RelativeDocumentMoniker": "Core\\TvMazeScraper.Application\\Profiles\\TvMazeMappingProfile.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\Profiles\\TvMazeMappingProfile.cs",
+              "RelativeToolTip": "Core\\TvMazeScraper.Application\\Profiles\\TvMazeMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:45:51.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PersistenceServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.Persistence\\PersistenceServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\TvMazeScraper.Persistence\\PersistenceServiceRegistration.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.Persistence\\PersistenceServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\TvMazeScraper.Persistence\\PersistenceServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:11:03.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Core\\TvMazeScraper.Application\\ApplicationServiceRegistration.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "Core\\TvMazeScraper.Application\\ApplicationServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:11:35.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.ApiClients\\ApiServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\TvMazeScraper.ApiClients\\ApiServiceRegistration.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.ApiClients\\ApiServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\TvMazeScraper.ApiClients\\ApiServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:46:48.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShowRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.Persistence\\Repositories\\ShowRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\TvMazeScraper.Persistence\\Repositories\\ShowRepository.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.Persistence\\Repositories\\ShowRepository.cs",
+              "RelativeToolTip": "Infrastructure\\TvMazeScraper.Persistence\\Repositories\\ShowRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:25:05.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1800,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TvMazeDataIngestionService.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\TvMazeDataIngestionService.cs",
+              "RelativeDocumentMoniker": "Core\\TvMazeScraper.Application\\TvMazeDataIngestionService.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\TvMazeDataIngestionService.cs",
+              "RelativeToolTip": "Core\\TvMazeScraper.Application\\TvMazeDataIngestionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:32:19.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowDto.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\DTO\\ShowDto.cs",
+              "RelativeDocumentMoniker": "Core\\TvMazeScraper.Application\\DTO\\ShowDto.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\DTO\\ShowDto.cs",
+              "RelativeToolTip": "Core\\TvMazeScraper.Application\\DTO\\ShowDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:08:34.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonDto.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\DTO\\PersonDto.cs",
+              "RelativeDocumentMoniker": "Core\\TvMazeScraper.Application\\DTO\\PersonDto.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\DTO\\PersonDto.cs",
+              "RelativeToolTip": "Core\\TvMazeScraper.Application\\DTO\\PersonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:58:43.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowsController.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\API\\Controllers\\ShowsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ShowsController.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\API\\Controllers\\ShowsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ShowsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:43:43.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TvMazeApiClientService.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.ApiClients\\TvMazeApiClientService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\TvMazeScraper.ApiClients\\TvMazeApiClientService.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.ApiClients\\TvMazeApiClientService.cs",
+              "RelativeToolTip": "Infrastructure\\TvMazeScraper.ApiClients\\TvMazeApiClientService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:51:47.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TvMazeScraperController.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\API\\Controllers\\TvMazeScraperController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TvMazeScraperController.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\API\\Controllers\\TvMazeScraperController.cs",
+              "RelativeToolTip": "API\\Controllers\\TvMazeScraperController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:10:17.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CastWrapperDto.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\DTO\\CastWrapperDto.cs",
+              "RelativeDocumentMoniker": "Core\\TvMazeScraper.Application\\DTO\\CastWrapperDto.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\DTO\\CastWrapperDto.cs",
+              "RelativeToolTip": "Core\\TvMazeScraper.Application\\DTO\\CastWrapperDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:58:45.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:13:02.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CastDto.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\DTO\\CastDto.cs",
+              "RelativeDocumentMoniker": "Core\\TvMazeScraper.Application\\DTO\\CastDto.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\DTO\\CastDto.cs",
+              "RelativeToolTip": "Core\\TvMazeScraper.Application\\DTO\\CastDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:50:06.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

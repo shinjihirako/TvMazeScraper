@@ -1,0 +1,17 @@
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\bin\Debug\net8.0\TvMazeScraper.ApiClients.deps.json
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\bin\Debug\net8.0\TvMazeScraper.ApiClients.dll
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\bin\Debug\net8.0\TvMazeScraper.ApiClients.pdb
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\bin\Debug\net8.0\TvMazeScraper.Application.dll
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\bin\Debug\net8.0\TvMazeScraper.Domain.dll
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\bin\Debug\net8.0\TvMazeScraper.Application.pdb
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\bin\Debug\net8.0\TvMazeScraper.Domain.pdb
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\obj\Debug\net8.0\TvMazeScraper.ApiClients.csproj.AssemblyReference.cache
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\obj\Debug\net8.0\TvMazeScraper.ApiClients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\obj\Debug\net8.0\TvMazeScraper.ApiClients.AssemblyInfoInputs.cache
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\obj\Debug\net8.0\TvMazeScraper.ApiClients.AssemblyInfo.cs
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\obj\Debug\net8.0\TvMazeScraper.ApiClients.csproj.CoreCompileInputs.cache
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\obj\Debug\net8.0\TvMazeSc.3E28349D.Up2Date
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\obj\Debug\net8.0\TvMazeScraper.ApiClients.dll
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\obj\Debug\net8.0\refint\TvMazeScraper.ApiClients.dll
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\obj\Debug\net8.0\TvMazeScraper.ApiClients.pdb
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\obj\Debug\net8.0\ref\TvMazeScraper.ApiClients.dll

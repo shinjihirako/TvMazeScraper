@@ -1,0 +1,17 @@
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.Persistence\bin\Debug\net8.0\TvMazeScraper.Persistence.deps.json
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.Persistence\bin\Debug\net8.0\TvMazeScraper.Persistence.dll
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.Persistence\bin\Debug\net8.0\TvMazeScraper.Persistence.pdb
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.Persistence\bin\Debug\net8.0\TvMazeScraper.Application.dll
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.Persistence\bin\Debug\net8.0\TvMazeScraper.Domain.dll
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.Persistence\bin\Debug\net8.0\TvMazeScraper.Application.pdb
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.Persistence\bin\Debug\net8.0\TvMazeScraper.Domain.pdb
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.Persistence\obj\Debug\net8.0\TvMazeScraper.Persistence.csproj.AssemblyReference.cache
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.Persistence\obj\Debug\net8.0\TvMazeScraper.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.Persistence\obj\Debug\net8.0\TvMazeScraper.Persistence.AssemblyInfoInputs.cache
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.Persistence\obj\Debug\net8.0\TvMazeScraper.Persistence.AssemblyInfo.cs
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.Persistence\obj\Debug\net8.0\TvMazeScraper.Persistence.csproj.CoreCompileInputs.cache
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.Persistence\obj\Debug\net8.0\TvMazeSc.CB90ABF0.Up2Date
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.Persistence\obj\Debug\net8.0\TvMazeScraper.Persistence.dll
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.Persistence\obj\Debug\net8.0\refint\TvMazeScraper.Persistence.dll
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.Persistence\obj\Debug\net8.0\TvMazeScraper.Persistence.pdb
+C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.Persistence\obj\Debug\net8.0\ref\TvMazeScraper.Persistence.dll

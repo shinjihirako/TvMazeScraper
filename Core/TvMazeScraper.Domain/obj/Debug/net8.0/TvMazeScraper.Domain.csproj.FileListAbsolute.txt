@@ -1,0 +1,11 @@
+C:\Projects\TvMazeScraper\Core\TvMazeScraper.Domain\bin\Debug\net8.0\TvMazeScraper.Domain.deps.json
+C:\Projects\TvMazeScraper\Core\TvMazeScraper.Domain\bin\Debug\net8.0\TvMazeScraper.Domain.dll
+C:\Projects\TvMazeScraper\Core\TvMazeScraper.Domain\bin\Debug\net8.0\TvMazeScraper.Domain.pdb
+C:\Projects\TvMazeScraper\Core\TvMazeScraper.Domain\obj\Debug\net8.0\TvMazeScraper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TvMazeScraper\Core\TvMazeScraper.Domain\obj\Debug\net8.0\TvMazeScraper.Domain.AssemblyInfoInputs.cache
+C:\Projects\TvMazeScraper\Core\TvMazeScraper.Domain\obj\Debug\net8.0\TvMazeScraper.Domain.AssemblyInfo.cs
+C:\Projects\TvMazeScraper\Core\TvMazeScraper.Domain\obj\Debug\net8.0\TvMazeScraper.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\TvMazeScraper\Core\TvMazeScraper.Domain\obj\Debug\net8.0\TvMazeScraper.Domain.dll
+C:\Projects\TvMazeScraper\Core\TvMazeScraper.Domain\obj\Debug\net8.0\refint\TvMazeScraper.Domain.dll
+C:\Projects\TvMazeScraper\Core\TvMazeScraper.Domain\obj\Debug\net8.0\TvMazeScraper.Domain.pdb
+C:\Projects\TvMazeScraper\Core\TvMazeScraper.Domain\obj\Debug\net8.0\ref\TvMazeScraper.Domain.dll

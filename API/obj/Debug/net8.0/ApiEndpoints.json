@@ -1,0 +1,33 @@
+[
+  {
+    "ContainingType": "TvMazeScraper.Controllers.ShowsController",
+    "Method": "GetShows",
+    "RelativePath": "api/Shows",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TvMazeScraper.Controllers.TvMazeScraperController",
+    "Method": "ScrapeTvMazeData",
+    "RelativePath": "api/TvMazeScraper/scrape",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

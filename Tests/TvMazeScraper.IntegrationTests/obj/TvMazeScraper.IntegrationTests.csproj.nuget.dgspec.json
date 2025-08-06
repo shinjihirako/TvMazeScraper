@@ -1,0 +1,441 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\TvMazeScraper\\Tests\\TvMazeScraper.IntegrationTests\\TvMazeScraper.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj",
+        "projectName": "TvMazeScraper.Application",
+        "projectPath": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj",
+        "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gallery.uipath.com/api/v2": {},
+          "https://www.myget.org/F/workflow": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Domain\\TvMazeScraper.Domain.csproj": {
+                "projectPath": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Domain\\TvMazeScraper.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Domain\\TvMazeScraper.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Domain\\TvMazeScraper.Domain.csproj",
+        "projectName": "TvMazeScraper.Domain",
+        "projectPath": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Domain\\TvMazeScraper.Domain.csproj",
+        "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gallery.uipath.com/api/v2": {},
+          "https://www.myget.org/F/workflow": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.ApiClients\\TvMazeScraper.ApiClients.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.ApiClients\\TvMazeScraper.ApiClients.csproj",
+        "projectName": "TvMazeScraper.ApiClients",
+        "projectPath": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.ApiClients\\TvMazeScraper.ApiClients.csproj",
+        "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.ApiClients\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gallery.uipath.com/api/v2": {},
+          "https://www.myget.org/F/workflow": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj": {
+                "projectPath": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[8.0.19, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "Polly.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.Persistence\\TvMazeScraper.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.Persistence\\TvMazeScraper.Persistence.csproj",
+        "projectName": "TvMazeScraper.Persistence",
+        "projectPath": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.Persistence\\TvMazeScraper.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gallery.uipath.com/api/v2": {},
+          "https://www.myget.org/F/workflow": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj": {
+                "projectPath": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj"
+              },
+              "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Domain\\TvMazeScraper.Domain.csproj": {
+                "projectPath": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Domain\\TvMazeScraper.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\TvMazeScraper\\Tests\\TvMazeScraper.IntegrationTests\\TvMazeScraper.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\TvMazeScraper\\Tests\\TvMazeScraper.IntegrationTests\\TvMazeScraper.IntegrationTests.csproj",
+        "projectName": "TvMazeScraper.IntegrationTests",
+        "projectPath": "C:\\Projects\\TvMazeScraper\\Tests\\TvMazeScraper.IntegrationTests\\TvMazeScraper.IntegrationTests.csproj",
+        "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\TvMazeScraper\\Tests\\TvMazeScraper.IntegrationTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gallery.uipath.com/api/v2": {},
+          "https://www.myget.org/F/workflow": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj": {
+                "projectPath": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\TvMazeScraper.Application.csproj"
+              },
+              "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.ApiClients\\TvMazeScraper.ApiClients.csproj": {
+                "projectPath": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.ApiClients\\TvMazeScraper.ApiClients.csproj"
+              },
+              "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.Persistence\\TvMazeScraper.Persistence.csproj": {
+                "projectPath": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.Persistence\\TvMazeScraper.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
