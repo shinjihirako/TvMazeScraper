@@ -9,3 +9,4 @@ C:\Projects\TvMazeScraper\Core\TvMazeScraper.Domain\obj\Debug\net8.0\TvMazeScrap
 C:\Projects\TvMazeScraper\Core\TvMazeScraper.Domain\obj\Debug\net8.0\refint\TvMazeScraper.Domain.dll
 C:\Projects\TvMazeScraper\Core\TvMazeScraper.Domain\obj\Debug\net8.0\TvMazeScraper.Domain.pdb
 C:\Projects\TvMazeScraper\Core\TvMazeScraper.Domain\obj\Debug\net8.0\ref\TvMazeScraper.Domain.dll
+C:\projects\TvMazeScraper\Core\TvMazeScraper.Domain\obj\Debug\net8.0\TvMazeScraper.Domain.sourcelink.json

@@ -21,6 +21,8 @@ namespace TvMazeScraper.Application.Profiles
                 .ForMember(dest => dest.ExternalShowId, opt => opt.MapFrom(src => src.Id))
                 .ForMember(dest => dest.Id, opt => opt.Ignore()) // Guid assigned by DB
                 .ForMember(dest => dest.CastMembers, opt => opt.MapFrom(src => src.Cast));
+              //  .ForMember(dest => dest.Premiered, static opt => opt.MapFrom(src => src.Premiered.HasValue ? DateOnly.FromDateTime(src.Premiered.Value) : default(DateOnly)));
+
 
             CreateMap<Show, ShowDto>()
                 .ForMember(dest => dest.Id, opt => opt.MapFrom(src => src.ExternalShowId))

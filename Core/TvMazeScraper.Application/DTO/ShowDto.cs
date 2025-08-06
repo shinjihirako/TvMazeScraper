@@ -6,7 +6,7 @@ namespace TvMazeScraper.Application.DTO
     {
         public int Id { get; set; }
         public required string Name { get; set; }
-        public DateTime? Premiered { get; set; }
+        public DateOnly? Premiered { get; set; }
         public List<CastDto> Cast { get; set; } = new List<CastDto>();
     }
 }

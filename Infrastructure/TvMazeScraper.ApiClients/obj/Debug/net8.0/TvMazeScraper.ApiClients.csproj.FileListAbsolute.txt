@@ -15,3 +15,4 @@ C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\obj\Debug\net8
 C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\obj\Debug\net8.0\refint\TvMazeScraper.ApiClients.dll
 C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\obj\Debug\net8.0\TvMazeScraper.ApiClients.pdb
 C:\Projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\obj\Debug\net8.0\ref\TvMazeScraper.ApiClients.dll
+C:\projects\TvMazeScraper\Infrastructure\TvMazeScraper.ApiClients\obj\Debug\net8.0\TvMazeScraper.ApiClients.sourcelink.json

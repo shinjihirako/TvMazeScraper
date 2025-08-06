@@ -6,7 +6,7 @@ namespace TvMazeScraper.Domain.Entities
     {
         public int ExternalPersonId { get; set; }  
         public required string Name { get; set; }
-        public DateTime? Birthday { get; set; }
+        public DateOnly? Birthday { get; set; }
 
         public Guid ShowId { get; set; }  
         public Show? Show { get; set; }

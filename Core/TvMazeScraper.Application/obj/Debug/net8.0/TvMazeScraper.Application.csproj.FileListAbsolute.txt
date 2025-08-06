@@ -24,3 +24,4 @@ C:\Projects\TvMazeScraper\Core\TvMazeScraper.Application\obj\Debug\net8.0\TvMaze
 C:\Projects\TvMazeScraper\Core\TvMazeScraper.Application\obj\Debug\net8.0\refint\TvMazeScraper.Application.dll
 C:\Projects\TvMazeScraper\Core\TvMazeScraper.Application\obj\Debug\net8.0\TvMazeScraper.Application.pdb
 C:\Projects\TvMazeScraper\Core\TvMazeScraper.Application\obj\Debug\net8.0\ref\TvMazeScraper.Application.dll
+C:\projects\TvMazeScraper\Core\TvMazeScraper.Application\obj\Debug\net8.0\TvMazeScraper.Application.sourcelink.json
