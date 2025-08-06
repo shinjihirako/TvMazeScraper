@@ -78,55 +78,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 2507,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StartupExtentions.cs",
-              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\API\\StartupExtentions.cs",
-              "RelativeDocumentMoniker": "API\\StartupExtentions.cs",
-              "ToolTip": "C:\\Projects\\TvMazeScraper\\API\\StartupExtentions.cs",
-              "RelativeToolTip": "API\\StartupExtentions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T10:10:50.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MapperConfig.cs",
-              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\Profiles\\MapperConfig.cs",
-              "RelativeDocumentMoniker": "Core\\TvMazeScraper.Application\\Profiles\\MapperConfig.cs",
-              "ToolTip": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\Profiles\\MapperConfig.cs",
-              "RelativeToolTip": "Core\\TvMazeScraper.Application\\Profiles\\MapperConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T09:45:50.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersistenceServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.Persistence\\PersistenceServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\TvMazeScraper.Persistence\\PersistenceServiceRegistration.cs",
-              "ToolTip": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.Persistence\\PersistenceServiceRegistration.cs",
-              "RelativeToolTip": "Infrastructure\\TvMazeScraper.Persistence\\PersistenceServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T10:11:03.972Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -141,8 +94,40 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\Profiles\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "Core\\TvMazeScraper.Application\\Profiles\\MapperConfig.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\Profiles\\MapperConfig.cs",
+              "RelativeToolTip": "Core\\TvMazeScraper.Application\\Profiles\\MapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:45:50.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartupExtentions.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\API\\StartupExtentions.cs",
+              "RelativeDocumentMoniker": "API\\StartupExtentions.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\API\\StartupExtentions.cs",
+              "RelativeToolTip": "API\\StartupExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:10:50.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersistenceServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.Persistence\\PersistenceServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\TvMazeScraper.Persistence\\PersistenceServiceRegistration.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\Infrastructure\\TvMazeScraper.Persistence\\PersistenceServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\TvMazeScraper.Persistence\\PersistenceServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:11:03.972Z"
             },
             {
               "$type": "Document",
@@ -154,8 +139,7 @@
               "RelativeToolTip": "Core\\TvMazeScraper.Application\\ApplicationServiceRegistration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T10:11:35.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T10:11:35.358Z"
             },
             {
               "$type": "Document",
@@ -167,8 +151,7 @@
               "RelativeToolTip": "Infrastructure\\TvMazeScraper.Persistence\\Repositories\\ShowRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T21:25:05.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T21:25:05.355Z"
             }
           ]
         },
@@ -177,30 +160,12 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICastMemberRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\Contracts\\Persistence\\ICastMemberRepository.cs",
-              "RelativeDocumentMoniker": "Core\\TvMazeScraper.Application\\Contracts\\Persistence\\ICastMemberRepository.cs",
-              "ToolTip": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\Contracts\\Persistence\\ICastMemberRepository.cs",
-              "RelativeToolTip": "Core\\TvMazeScraper.Application\\Contracts\\Persistence\\ICastMemberRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T10:50:16.673Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IShowRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\Contracts\\Persistence\\IShowRepository.cs",
-              "RelativeDocumentMoniker": "Core\\TvMazeScraper.Application\\Contracts\\Persistence\\IShowRepository.cs",
-              "ToolTip": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\Contracts\\Persistence\\IShowRepository.cs",
-              "RelativeToolTip": "Core\\TvMazeScraper.Application\\Contracts\\Persistence\\IShowRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T10:50:15.176Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -217,6 +182,30 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICastMemberRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\Contracts\\Persistence\\ICastMemberRepository.cs",
+              "RelativeDocumentMoniker": "Core\\TvMazeScraper.Application\\Contracts\\Persistence\\ICastMemberRepository.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\Contracts\\Persistence\\ICastMemberRepository.cs",
+              "RelativeToolTip": "Core\\TvMazeScraper.Application\\Contracts\\Persistence\\ICastMemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:50:16.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShowRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\Contracts\\Persistence\\IShowRepository.cs",
+              "RelativeDocumentMoniker": "Core\\TvMazeScraper.Application\\Contracts\\Persistence\\IShowRepository.cs",
+              "ToolTip": "C:\\Projects\\TvMazeScraper\\Core\\TvMazeScraper.Application\\Contracts\\Persistence\\IShowRepository.cs",
+              "RelativeToolTip": "Core\\TvMazeScraper.Application\\Contracts\\Persistence\\IShowRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:50:15.176Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ShowsController.cs",
               "DocumentMoniker": "C:\\Projects\\TvMazeScraper\\API\\Controllers\\ShowsController.cs",
@@ -225,8 +214,7 @@
               "RelativeToolTip": "API\\Controllers\\ShowsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T09:43:43.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T09:43:43.006Z"
             },
             {
               "$type": "Document",
@@ -238,8 +226,7 @@
               "RelativeToolTip": "Core\\TvMazeScraper.Application\\DTO\\PersonDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T09:58:43.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T09:58:43.201Z"
             },
             {
               "$type": "Document",
@@ -251,8 +238,7 @@
               "RelativeToolTip": "API\\Controllers\\TvMazeScraperController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T10:10:17.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T10:10:17.49Z"
             },
             {
               "$type": "Document",
@@ -264,8 +250,7 @@
               "RelativeToolTip": "API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T10:13:02.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T10:13:02.825Z"
             },
             {
               "$type": "Document",
@@ -277,8 +262,7 @@
               "RelativeToolTip": "Core\\TvMazeScraper.Application\\DTO\\ShowDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T10:08:34.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T10:08:34.178Z"
             },
             {
               "$type": "Document",
@@ -290,8 +274,7 @@
               "RelativeToolTip": "Core\\TvMazeScraper.Application\\TvMazeDataIngestionService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T10:32:19.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T10:32:19.705Z"
             },
             {
               "$type": "Document",
@@ -303,8 +286,7 @@
               "RelativeToolTip": "Core\\TvMazeScraper.Application\\DTO\\CastWrapperDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T09:58:45.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T09:58:45.61Z"
             },
             {
               "$type": "Document",
@@ -316,8 +298,7 @@
               "RelativeToolTip": "Core\\TvMazeScraper.Application\\DTO\\CastDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T09:50:06.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T09:50:06.982Z"
             }
           ]
         }
